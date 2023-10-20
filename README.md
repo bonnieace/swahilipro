@@ -21,7 +21,7 @@ To get started with SwahiliPro, you'll need to follow these steps:
    ```bash
    pip install swahilipro
 
-### Building SwahiliPro
+### compiling SwahiliPro Projects
 
 1. Open your terminal and navigate to the SwahiliPro project directory.
 2. Run Swahilipro on your terminal to open the compiler
@@ -29,3 +29,19 @@ To get started with SwahiliPro, you'll need to follow these steps:
 
    ```bash
    swa("file.swa")
+   
+### Features
+
+- SwahiliPro supports a variety of programming features, making it suitable for both beginners and experienced developers.
+- Native Swahili keywords and syntax for a comfortable programming experience in Swahili.
+- Standard libraries for common tasks and functions.
+- Error checking and reporting to help you write bug-free code
+- 
+### Contribution
+
+We welcome contributions from the open-source community. If you'd like to contribute to SwahiliPro, please follow our contribution guidelines.
+
+### License
+SwahiliPro is open-source software released under the MIT License. You are free to use, modify, and distribute it according to the terms of the license.
+
+

@@ -29,8 +29,7 @@ To get started with SwahiliPro, you'll need to follow these steps:
 
 ```bash
    swa("file.swa")
- ```bash
-   ANDIKA("Habari Kenya")
+
 
 
    

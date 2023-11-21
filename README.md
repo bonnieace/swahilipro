@@ -29,10 +29,6 @@ To get started with SwahiliPro, you'll need to follow these steps:
 
    ```bash
    swa("file.swa")
-
-
-
-   
 ### Features
 
 - SwahiliPro supports a variety of programming features, making it suitable for both beginners and experienced developers.

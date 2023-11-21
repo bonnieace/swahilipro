@@ -29,6 +29,41 @@ To get started with SwahiliPro, you'll need to follow these steps:
 
    ```bash
    swa("file.swa")
+   ```bash
+   ANDIKA("Habari Kenya")
+   ```bash
+   ANDIKA("andika nambari yako ya simu :")
+VAR nambari_ = BONYEZA_NAM()
+ANDIKA(nambari_)
+
+ANDIKA("andika jina lako :")
+VAR jina = BONYEZA()
+
+ANDIKA(jina)
+   ```bash
+
+ANDIKA("Bonyeza nambari yako")
+VAR nambari_ = BONYEZA_NAM()
+IKIWA nambari_ >5 AU nambari_ <5 BASI
+	ANDIKA("kweli nambari_ si sawa na 5")
+
+IKIWA_NYINGINE 	
+	ANDIKA("kweli nambari_ ni sawa na 5")
+FUNGA
+   ```bash
+
+VAR namba=BONYEZA_NAM()
+
+NJIA Salamu()
+	ANDIKA("Habari Kenya")
+FUNGA
+
+KWA i = 0 HADI namba BASI
+	Salamu()
+
+
+FUNGA
+
    
 ### Features
 

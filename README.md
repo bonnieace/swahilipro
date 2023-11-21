@@ -27,7 +27,7 @@ To get started with SwahiliPro, you'll need to follow these steps:
 2. Run Swahilipro on your terminal to open the compiler
 3. type swa("") and fill in the .swa file 
 
-```bash
+   ```bash
    swa("file.swa")
 
 

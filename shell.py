@@ -1,5 +1,5 @@
 import time
-import swahilipro
+import swahilipro.swahilipro as swahilipro
 ascii_art = [
     [
         "   ____",
